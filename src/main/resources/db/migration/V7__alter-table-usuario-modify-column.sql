@@ -1,0 +1,2 @@
+ALTER TABLE usuarios
+CHANGE nome login VARCHAR(100) NOT NULL;
